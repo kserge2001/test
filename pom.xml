@@ -20,7 +20,7 @@
     </dependencies>
 
     <build>
-        <finalName>SampleServlet</finalName>
+        <finalName>sample</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.tomcat.maven</groupId>
